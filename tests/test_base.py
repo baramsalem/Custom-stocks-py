@@ -1,6 +1,6 @@
 import pytest
 
-from project_name import BaseClass, base_function
+from custom_stocks_py import BaseClass, base_function
 
 given = pytest.mark.parametrize
 

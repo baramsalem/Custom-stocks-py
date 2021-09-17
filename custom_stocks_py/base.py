@@ -1,7 +1,7 @@
 """
-project_name base module.
+custom_stocks_py base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the custom_stocks_py project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
